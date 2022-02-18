@@ -1,5 +1,7 @@
 # Graphing Calculator SD End User License Agreement
 
+### Effective: February 17th, 2022
+
 In order to protect Graphing Calculator SD (my "Program", "Application", "GraphingCalculator3D", or "GraphingCalculatorSD"), these end user license terms set out some rules for downloading and using the Program. This licence is a legal agreement between you and me (SerpentDagger, or Merrick R.R. Harmon), and describes the terms and conditions for using the Program. If you break these rules, I may stop you from using my Application. If necessary, this may include the help of Lawyers.
 
 If you buy, download, install, or use the Program (including outdated versions), you are agreeing to follow these end user licence agreement ("EULA") terms. If you don't want to or can't agree to these rules, then you must not buy, download, install, or use the Program. Your purchase, download, installation, and use of this program may be subject to the Squarespace Terms of Service, available here: https://www.squarespace.com/terms-of-service, because my Website (along with at least 1 file downloaded during runtime by this Program) is hosted on Squarespace. By agreeing to this EULA, you also agree to the relevant and applicable terms of the foregoing document.
