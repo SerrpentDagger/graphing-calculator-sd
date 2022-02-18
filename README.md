@@ -21,6 +21,7 @@ You must not distribute anything I made unless I specifically agree to it. By "d
 - make commercial use of anything I've made;
 - try to make money from anything I've made; or
 - let other people get access to anything I've made in a way that is unfair or unreasonable;
+
 unless I specifically agree to it in writing.
 
 
