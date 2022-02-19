@@ -14,6 +14,7 @@ Here are some term definitions that I use in this EULA.
 - My "Brands" include any Names and/or the related logos and distinctive characteristics of any of my Names and programs.
 - My "Assets" are the code, software, graphics, textures, images, models, sound and audio from any of my programs and any videos or screenshots taken from my programs.
 - The "Program" or "what I have made" includes, but is not limited to, the software for the Program, updates, patches, downloadable content, add-ons, modified versions of the Program, parts of those things, or anything else I've made, along with my Names, Brands, and Assets.
+- A "Security Code", "Activation Code", or "License Key" is the code used alongside your username to activate premium features of the Program.
 
 
 ## Denial Of Distribution
@@ -21,6 +22,7 @@ Here are some term definitions that I use in this EULA.
 You must not distribute anything I made unless I specifically agree to it. By "distribute anything I made", I mean:
 - give copies of the Program to anyone else;
 - make commercial use of anything I've made;
+- share, distribute, or transfer ownership of your Security Code;
 - try to make money from anything I've made; or
 - let other people get access to anything I've made in a way that is unfair or unreasonable;
 
@@ -33,7 +35,7 @@ You are being granted a limited, revokable and non-exclusive license to the Prog
 Below I also give you limited rights to do other things.
 
 The license and permission I give you to use the Program can be revoked if you break any of the terms of this EULA.
-If you have purchased a Security Code ("Activation Code", or "License Key" used to activate premium features of the Program) for the Program, I may deactivate that code if you break any of the terms of this EULA. I am not required to refund your purchase in this case, but may decide to do so under my sole discretion.
+If you have purchased a Security Code for the Program, I may deactivate that code if you break any of the terms of this EULA. I am not required to refund your purchase in this case, but may decide to do so under my sole discretion.
 
 When you buy, download, install or use my Program, you receive a license that gives you permission to install the Program on your own personal device and use it on that device as set out in this EULA. This permission is personal to you, so you are not allowed to distribute the Program (or any part of it) to anyone else. This also means you cannot sell or rent the Program, or make it available for access to other people, and you cannot pass on or resell any License Keys. You may not produce or attempt to produce your own License Keys. You may however give Security Codes as a gift (on an individual basis and transferring ownership) that have been specifically requested as such during purchase. This is important to stop piracy and fraud, and to protect the Application. It is also important to prevent members of the community from buying pirated versions of the Program or fraudulent License Keys - which I may cancel in such a case.
 You may also create copies of the Program for personal archival/backup purposes only.
@@ -99,7 +101,7 @@ If a dispute arises between us, my goal is to learn about such dispute and addre
 
 The terms of this EULA do not affect any (statutory) rights that you may have under the law that applies to you for the Program. You might have certain rights which the law that applies to you says cannot be excluded. Nothing I say in these terms will affect those legal rights, even if I say something which sounds like it contradicts your legal rights. That's what I mean when I say "subject to applicable law".
 
-SUBJECT TO APPLICABLE LAW, When you get a copy of my Program, I provide it "as is". Updates are also provided "as is". This means that I am not making any promises to you about the standard or quality of the Program, or that the Program will be uninterrupted or error free. I am not responsible for any loss or damage that it may cause. You bear the entire risk as to its quality and performance. You have to accept that I may release Programs well before they are complete and so they may have bugs. If you would like to notify me about a potential bug, you can do so using my contact email: serpentdagger.contact@gmail.com
+SUBJECT TO APPLICABLE LAW, When you get a copy of my Program, I provide it "as is". Updates are also provided "as is". This means that I am not making any promises to you about the standard or quality of the Program, or that the Program will be uninterrupted or error free. I am not responsible for any loss or damage that it may cause. You bear the entire risk as to its quality and performance. You have to accept that I may release Programs well before they are complete and so they may have bugs. If you would like to notify me about a potential bug, you can do so on the following website: https://github.com/SerrpentDagger/graphing-calculator-sd/issues, or by using my contact email: serpentdagger.contact@gmail.com
 
 
 ## Arbitration Agreement
