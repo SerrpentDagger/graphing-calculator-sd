@@ -1,10 +1,10 @@
 # Graphing Calculator SD End User License Agreement
 
-### Effective: February 17th, 2022
+### Effective: February 19th, 2022
 
 In order to protect Graphing Calculator SD (my "Program", "Application", "GraphingCalculator3D", "GraphingCalculatorSD", or "GCSD"), these end user license terms set out some rules for downloading and using the Program. This licence is a legal agreement between you and me (SerpentDagger, or Merrick R.R. Harmon), and describes the terms and conditions for using the Program. If you break these rules, I may stop you from using my Application. If necessary, this may include the help of Lawyers.
 
-If you buy, download, install, or use the Program (including outdated versions), you are agreeing to follow these end user licence agreement ("EULA") terms. If you don't want to or can't agree to these rules, then you must not buy, download, install, or use the Program. Your purchase, download, installation, and use of this program may be subject to the Squarespace Terms of Service, available here: https://www.squarespace.com/terms-of-service, because my Website (along with at least 1 file downloaded during runtime by this Program) is hosted on Squarespace. By agreeing to this EULA, you also agree to the relevant and applicable terms of the foregoing document.
+If you buy, download, install, or use the Program (including outdated versions), you are agreeing to follow these end user licence agreement ("EULA") terms. If you don't want to or can't agree to these rules, then you must not buy, download, install, or use the Program. Your download and use of this program may be subject to the GitHub Terms of Service, available here: https://docs.github.com/en/github/site-policy/github-terms-of-service, because release files (along with at least 1 file downloaded during runtime by this Program) are hosted on GitHub. By agreeing to this EULA, you also agree to the relevant and applicable terms of the foregoing document.
 
 
 ## Definition Of Terms
@@ -37,8 +37,6 @@ If you have purchased a Security Code ("Activation Code", or "License Key" used 
 
 When you buy, download, install or use my Program, you receive a license that gives you permission to install the Program on your own personal device and use it on that device as set out in this EULA. This permission is personal to you, so you are not allowed to distribute the Program (or any part of it) to anyone else. This also means you cannot sell or rent the Program, or make it available for access to other people, and you cannot pass on or resell any License Keys. You may not produce or attempt to produce your own License Keys. You may however give Security Codes as a gift (on an individual basis and transferring ownership) that have been specifically requested as such during purchase. This is important to stop piracy and fraud, and to protect the Application. It is also important to prevent members of the community from buying pirated versions of the Program or fraudulent License Keys - which I may cancel in such a case.
 You may also create copies of the Program for personal archival/backup purposes only.
-
-You may not reverse engineer, decompile, or dissassemble the Program, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation. You are free to view and modify those associated data files used by this Program originally stored in the directory "data", with the specific exclusion of modifying the copy of this EULA provided with the Program, which you may not modify, remove, replace, rename, or otherwise mess with.
 
 Within reason, you're free to do whatever you want with screenshots and videos of the Program. By "within reason", I mean that you can't make any commercial use of them or do things that are unfair or adversely affect my rights unless I've specifically allowed it through this EULA, or provided for it in a specific agreement with you.
 If you upload images or videos of the Program to image or video sharing and streaming sites, you are however allowed to use advertising on those sites.
@@ -101,7 +99,7 @@ If a dispute arises between us, my goal is to learn about such dispute and addre
 
 The terms of this EULA do not affect any (statutory) rights that you may have under the law that applies to you for the Program. You might have certain rights which the law that applies to you says cannot be excluded. Nothing I say in these terms will affect those legal rights, even if I say something which sounds like it contradicts your legal rights. That's what I mean when I say "subject to applicable law".
 
-SUBJECT TO APPLICABLE LAW, When you get a copy of my Program, I provide it "as is". Updates are also provided "as is". This means that I am not making any promises to you about the standard or quality of the Program, or that the Program will be uninterrupted or error free. I am not responsible for any loss or damage that it may cause. You bear the entire risk as to its quality and performance. You have to accept that I may release Programs well before they are complete and so they may have bugs. If you would like to notify me about a potential bug, you can do so on the following website: https://github.com/SerrpentDagger/graphing-calculator-sd/issues, or by using my contact email: serpentdagger.contact@gmail.com
+SUBJECT TO APPLICABLE LAW, When you get a copy of my Program, I provide it "as is". Updates are also provided "as is". This means that I am not making any promises to you about the standard or quality of the Program, or that the Program will be uninterrupted or error free. I am not responsible for any loss or damage that it may cause. You bear the entire risk as to its quality and performance. You have to accept that I may release Programs well before they are complete and so they may have bugs. If you would like to notify me about a potential bug, you can do so using my contact email: serpentdagger.contact@gmail.com
 
 
 ## Arbitration Agreement
@@ -113,7 +111,20 @@ You and I agree to submit any claim, dispute, action, cause of action, issue, or
 
 If I want, I can terminate this EULA if you breach any of the terms. I will attempt to notify you by email if I decide to do this. If I terminate this EULA, I will also deactivate your Security Code/s if applicable. Upon termination of this agreement, I will not have any obligation to refund any portion of any fee.
 
-You can terminate it too, at any time, by uninstalling the Program from your devices and deleting all copies of the Program. If this EULA is terminated, you will no longer have any of the rights to the Program given in this license. You do still have the right to things you have created yourself with the Program. The Arbitration Agreement, and the paragraphs about "Ownership Of My Program And Other Things", "My Liability, Governing Law, And Dispute Resolution", "Returns, Refunds And Cancellation", "Denial Of Distribution" and "General Stuff" will continue to apply even after the EULA is terminated.
+You can terminate it too, at any time, by uninstalling the Program from your devices and deleting all copies of the Program. If this EULA is terminated, you will no longer have any of the rights to the Program given in this license. You do still have the right to things you have created yourself with the Program. The Arbitration Agreement, and the paragraphs about "Ownership Of My Program And Other Things", "My Liability, Governing Law, And Dispute Resolution", "Returns, Refunds And Cancellation", "Denial Of Distribution", "Security", and "General Stuff" will continue to apply even after the EULA is terminated.
+
+
+## Security
+
+If you purchase a Security Code and it is eventually deactivated, or if I am forced to reference your license directly for another purpose, I will do so by storing an appropriatly encrypted version of your username in a public file (the "Online File"). The encryption is theoretically irreversible, and so should not pose a security risk for your information. I may increase the strength of or alter the encryption at a later date as computing power increases, in order to avoid risk from brute-force attacks. Each username is encrypted individually, and so is secure independently from all others.
+You give me permission to store your username as and for the purposes described above, if necessary.
+
+You may not generate, decrypt, or reverse-engineer License Code/s, or attempt to do so. You may not decrypt or reverse-engineer the Online File or its contents, or attempt to do so.
+You may not reverse engineer, decompile, or dissassemble the Program, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation. You are free to view and modify those associated data files used by this Program originally stored in the directory "data", with the specific exclusion of modifying the copy of this EULA provided with the Program, which you may not modify, remove, replace, rename, or otherwise mess with.
+
+You may not help anyone else to do things that would go against this EULA, nor may you request that they do such things.
+
+If you have a security concern, please contact me privately by email at serpentdagger.contact@gmail.com.
 
 
 ## General Stuff
