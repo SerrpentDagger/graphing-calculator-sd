@@ -4,6 +4,7 @@ This is an advanced 3D/4D graphing calculator which allows for the rendering of 
 For more information, please visit the [following website](https://serpentdagger.com/graphing-calculator-3d4d), or investigate the extensive in-app help articles/tooltips.
 
 Activation Codes to unlock the advanced features of GCSD can be purchased [here](https://serpentdagger.com/store).
+
 By purchasing, downloading, installing or using the program, you must read and agree to the [Graphing Calculator SD End User License Agreement](/LICENSE.md).
 
 Here's a pretty picture in the meantime. (More over [here](https://serpentdagger.com/gallery).)
