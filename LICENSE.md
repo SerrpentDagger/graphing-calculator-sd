@@ -82,6 +82,7 @@ If you publish any content made on, through, or for use as a component in my Pro
 - Themes
 - Workspaces
 - Data files specifying the above such content.
+
 If you make such content, it must not be offensive to people or illegal, it must be honest, and it must be your own creation. Some examples of things you must not make available using the Program include those that: contain racist or homophobic language; are bullying or trolling; are offensive or that damage my or another person's reputation; contain porn or someone else's creation or image; impersonate me or an official associate; attempt to exploit people.
 
 Any content made on, through, or for use as a component in my Program must also be your creation or you must have permission or legal right to do it. You must not, and you agree not to make any such content that infringes the rights of others.
