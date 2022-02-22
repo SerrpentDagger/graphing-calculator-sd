@@ -1,6 +1,6 @@
 # Graphing Calculator SD End User License Agreement
 
-### Effective: February 19th, 2022
+### Effective: February 22th, 2022
 
 In order to protect Graphing Calculator SD (my "Program", "Application", "GraphingCalculator3D", "GraphingCalculatorSD", or "GCSD"), these end user license terms set out some rules for downloading and using the Program. This licence is a legal agreement between you and me (SerpentDagger, or Merrick R.R. Harmon), and describes the terms and conditions for using the Program. If you break these rules, I may stop you from using my Application. If necessary, this may include the help of Lawyers.
 
