@@ -7,7 +7,7 @@ Activation Codes to unlock the advanced features of GCSD can be purchased [here]
 
 *(Temporary public "trial" code available at the [bottom](#public-code) of this page.)*
 
-To install the program, simply download the .zip file (from the [Releases](https://github.com/SerrpentDagger/graphing-calculator-sd/releases) tab), and extract it to a convenient folder. Instructions for updating will be supplied in individual release notes, along with the changes.
+To install the program, simply download the .zip file (from the [Releases](https://github.com/SerrpentDagger/graphing-calculator-sd/releases) tab), and extract it to a convenient folder. Instructions for updating will be supplied in individual release notes, along with the changelog for the update.
 
 To run the program, your machine needs Java 1.8 (64-bit), and must be capable of running OpenGL 3.2 (packaged with the app).
 
