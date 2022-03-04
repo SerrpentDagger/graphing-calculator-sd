@@ -18,6 +18,4 @@ Here's a pretty picture in the meantime. (More over [here](https://serpentdagger
 ![Pretty Cover Image](https://images.squarespace-cdn.com/content/v1/619fecb2e396e825d9bb6d5a/5e108890-81ff-4086-97c4-d67a019f782f/HD+Cylindrical+Lumps+Collage.png.png?format=750w)
 
 ### Public Code
-Username: PublicTrail-2022/3/3
-
-Code: nPHJsajkKpSc5powfzyPmL9hiOnDt895p2LV9KUyKhKcl64nTqhMDj/rthP3vtWwQg0J83eg1FQg7rSO3ptjZcbTTglA8e/D7qjs7gy8tmeJDrqKObyfijVn2B7Xj1nXFFcQHNk3+mObwg+6nXRC4GIYR2z0gt12aP2demthdfZfSybaPBqymJIBWV2r4mpgLJVWM4nDG/5WxOK1mjMheUQ8H+UDcC+0JXpTIDkf/k0+gvoUqbxU540ZUJmRdOjSUgFvfFFZERJNF9x+plpRZXjySqIGS1TLH9dol0It4SMvBnwBGTzs2qt+sQIR8SvrP0juOl8MrfyttiuecnEITg==
+There is currently no active public code.
