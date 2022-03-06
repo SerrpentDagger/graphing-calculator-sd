@@ -18,4 +18,4 @@ You can then delete the remaining portions of the new installation, since you've
 - \*jar ⠀*⠀(The old jar should be replaced with the new one, and doing so is required in order for the update to work.)*
 - ^themes ⠀*⠀(Merge the new 'data/themes' folder with the old one by dragging the new one into the old 'data/' folder. Replace conflicts. Not functionally required, but provides visual improvements.)*
 - +textures ⠀*⠀(Merge the new 'data/textures' folder with the old one by dragging the new one into the old 'data/' folder. Replacing conflicts is unnecessary, since they should be identical. Not functionally required, but provides new visual assets.)*
-- ^+themes ⠀*⠀(Merge the new 'data/themes' folder with the old one by draggin the new one into the old 'data/' folder. Replace conflicts. Not functionally required, but improves old assets and adds new ones.)*
+- ^+skyboxes ⠀*⠀(Merge the new 'data/themes' folder with the old one by draggin the new one into the old 'data/' folder. Replace conflicts. Not functionally required, but improves old assets and adds new ones.)*
