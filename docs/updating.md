@@ -7,7 +7,8 @@ You can then delete the remaining portions of the new installation, since you've
 
 ### Symbols
 - \*: Required in order for the update to work.
-- ^: Recommended for non-essential, visual asset improvements.
+- ^: Recommended for non-essential, visual asset improvements. Replaces old assets.
+- +: Recommended for non-essential, visual asset additions. Adds new assets.
 
 ### Keywords
 - jar: Replace the current 'GraphingCalculator...jar" file with the new one.
