@@ -1,7 +1,7 @@
 # Graphing Calculator SD
 
 This is an advanced 3D/4D graphing calculator which allows for the rendering of complex functions in a wide variety of coordinate systems, with a wide variety of options.
-For more information, please visit the [following website](https://serpentdagger.com/graphing-calculator-3d4d), or investigate the extensive in-app help articles/tooltips.
+For more information, please visit the [following website](https://serpentdagger.com/graphing-calculator-3d4d), or investigate the extensive in-app help articles/tooltips. I also have a ['Getting Started'](https://www.youtube.com/watch?v=lsag91N61vI) video that should be helpful.
 
 To install the program, simply download the .zip file (from the [Releases](https://github.com/SerrpentDagger/graphing-calculator-sd/releases) tab), and extract it to a convenient folder. Instructions for updating will be supplied in individual release notes, along with the changelog for the update. Here is a link to the [latest release](https://github.com/SerrpentDagger/graphing-calculator-sd/releases/latest), and one for [help interpereting](/docs/updating.md) the update instructions.
 
