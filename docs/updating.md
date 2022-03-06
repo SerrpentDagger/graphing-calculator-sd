@@ -1,5 +1,6 @@
 ## Updating GCSD
 
+Note that this page is only relevant if you're updating from a previous version. Fresh installation is simply a matter of extracting the .zip file.
 A given release will have a combination of symbols/keywords from below.
 Each is a straightforward instruction for what needs to be copied from the new version to your current installation.
 My reccommendation for updating is to download the new version's .zip file, extract it into a convenient directory, and then follow the instructions indicated by the symbols/keywords.
