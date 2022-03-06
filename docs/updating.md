@@ -14,6 +14,6 @@ You can then delete the remaining portions of the new installation, since you've
 - \<data folder name\>: When the name of a folder in 'data/' is written, the instruction is to merge the new 'data/\<name\>' folder with the old one by dragging the new one into 'data/'. Replace the old conflicting files if prompted, unless they're ones you've added yourself and want to keep.
 
 ### Example
-- \*jar   (The old jar should be replaced with the new one, and doing so is required in order for the update to work.)
-- ^themes   (Merge the new 'data/themes' folder with the old one by dragging the new one into the old 'data/' folder. Replace conflicts. Not functionally required, but provides visual improvements.)
-- ^textures   (Merge the new 'data/textures' folder with the old one by dragging the new one into the old 'data/' folder. Replace conflicts. Not functionally required, but provides visual improvements.)
+- \*jar ⠀⠀(The old jar should be replaced with the new one, and doing so is required in order for the update to work.)
+- ^themes ⠀⠀(Merge the new 'data/themes' folder with the old one by dragging the new one into the old 'data/' folder. Replace conflicts. Not functionally required, but provides visual improvements.)
+- ^textures ⠀⠀(Merge the new 'data/textures' folder with the old one by dragging the new one into the old 'data/' folder. Replace conflicts. Not functionally required, but provides visual improvements.)
