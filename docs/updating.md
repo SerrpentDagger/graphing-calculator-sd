@@ -15,7 +15,7 @@ You can then delete the remaining portions of the new installation, since you've
 
 ### Keywords
 - jar: Replace the current 'GraphingCalculator...jar" file with the new one.
-- \<data folder name\>: When the name of a folder in 'data/' is written, the instruction is to merge the new 'data/\<name\>' folder with the old one by dragging the new one into 'data/'. If the ^ symbol is present, replace the old conflicting files when prompted, unless they're ones you've added yourself and want to keep.
+- \<data folder name\>: When the name of a folder in 'data/' is written, the instruction is to merge the new 'data/\<name\>' folder with the old one by dragging the new one into the old 'data/' folder. If the ^ symbol is present, replace the old conflicting files when prompted, unless they're ones you've added yourself and want to keep.
 
 ### Examples
 - \*jar ⠀*⠀(The old jar should be replaced with the new one, and doing so is required in order for the update to work.)*
