@@ -8,3 +8,5 @@ solve your problem:
 - The circumstances leading up to the problem,
 - The log file for the sesssion in which the error occurred (from the 'data/logs' folder),
 - Anything else you think will be helpful.
+
+#### [Back](problems.md)
