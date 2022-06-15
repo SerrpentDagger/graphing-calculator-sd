@@ -11,3 +11,5 @@ If you are using the NVIDIA arcitechture, you can switch this setting in the NVI
 If your computer or graphics card is a bit old, it may be that your GPU does not support the OpenGL rendering features that are required by GCSD. The program makes use of
 relatively advanced techniques in order to produce high-quality and high-performance rendering of complex models, but this does have the downside of those features
 being potentially unavailable.
+
+#### [Back](problems.md)
