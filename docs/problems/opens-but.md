@@ -3,3 +3,5 @@ You can open the program, and it doesn't crash, but something's not working prop
 ### Please select a problem:
 - [GCSD opens as a white window, then changes color, but no buttons render](bad-gpu.md)
 - [Other](report-new.md)
+
+#### [Back](problems.md)
