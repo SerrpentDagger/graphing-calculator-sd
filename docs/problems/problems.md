@@ -5,3 +5,5 @@ I will be adding entries as potential issues become apparent. Note that as a sin
 - [Can't open .jar file](java.md)
 - [GCSD crashes](crash.md)
 - [GCSD opens, but...](opens-but.md)
+
+#### [Home](https://github.com/SerrpentDagger/graphing-calculator-sd)
