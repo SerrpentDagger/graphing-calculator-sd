@@ -7,6 +7,8 @@ To install the program, simply download the .zip file (from the [Releases](https
 
 To run the program, your machine needs [Java 1.8 (64-bit)](https://java.com/en/download/manual.jsp), and must be capable of running OpenGL 3.2 (packaged with the app).
 
+If you're having problems running this application, please consult my [problem-solver](/docs/problems/problems.md) for potentially helpful information. You can also check the [issues page](https://github.com/SerrpentDagger/graphing-calculator-sd/issues), or post a new issue if no solution is apparent from that.
+
 Activation Codes to unlock the advanced features of GCSD can be purchased [here](https://serpentdagger.com/store).
 
 By purchasing, downloading, installing or using* the program, you must read and agree to the [Graphing Calculator SD End User License Agreement](/LICENSE.md).⠀⠀*(*For the purposes of the EULA, using GitHub or other tools to manipulate the Release files should be considered "using" and/or "downloading", and you must agree to the EULA in this case.)*
