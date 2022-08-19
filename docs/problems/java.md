@@ -7,7 +7,7 @@ recognized (or similar), then your Java installation is invalid, and you should 
 ### Using the right version:
 It may be that you have the correct version of Java installed, but that a different one is being used to launch the application. When you run the above command,
 you should see a version of java 1.8.0. The one I provide a link to is version 1.8.0_331. If you don't see a 1.8.0 version when running the command,
-it means that your system is configured to use the wrong version of Java for this program. You can either manually run the program using the correct version with a command (or set up a .bat file or equivelant to do that).
+it means that your system is configured to use the wrong version of Java for this program. You can manually run the program using the correct version with a command (or set up a .bat file or equivelant to do that).
 
 You should also be able to associate .jar files with a specific version of Java so that they are launched with that version when clicked, but I can't figure out an easy way of doing that, so [here's](https://stackoverflow.com/questions/48380001/executable-jar-not-running-windows-10) a link to an obscure StackExchange post instead.
 
